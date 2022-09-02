@@ -11,7 +11,11 @@ export default function Home(){
     return (
         <div className="div-home">
            
-           <FeaturedPost />
+           
+            
+            <FeaturedPost />
+           
+           
             <ListaTroca />
            <Posts/>
            

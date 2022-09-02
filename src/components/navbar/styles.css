@@ -2,18 +2,41 @@
     display: flex;
     width: 95%;
     justify-content: space-between;
+    align-items: center;
     margin-top: 10px;
     margin-bottom: 0px;
 }
 
-
-
-.links a{
-    text-decoration: none;
-    margin:  0px 10px;
-    color: #535353;
+.navbar h1{
+    font-size: 3.5rem;
 }
 
+.navbar h1 span{
+    color: #18C600;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 1.3rem 0 0 0;
+}
+
+.initial{
+    color: #18C600;
+}
+.links{
+    list-style: none;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    color: #000000;
+    margin-left: 10rem;
+}
+
+.search-icon{
+    margin: 1.2rem 0 0 1.2rem;
+}
 .logo{
     width: 25vw;
     height: 35px;
