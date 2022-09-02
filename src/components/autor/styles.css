@@ -1,0 +1,16 @@
+.autor-img{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+.autor-container{
+    display: flex;
+    
+}
+.autor-txt{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}

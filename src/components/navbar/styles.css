@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+
+
+.links a{
+    text-decoration: none;
+    margin:  0px 10px;
+    color: #535353;
+}
+
+.logo{
+    width: 25vw;
+    height: 35px;
+}
+

@@ -1,0 +1,14 @@
+.text-green{
+    color: green;
+}
+.list-container{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img-list{
+    width: 15vw;
+    height: 10vw;
+    border-radius: 5px;
+}

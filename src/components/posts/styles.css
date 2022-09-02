@@ -1,0 +1,40 @@
+.posts-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    
+    
+    
+
+}
+.post-container{
+    display: inline;    
+    margin-top: 10px;
+    background-color: rgba(22, 220, 32, 0.586);
+    border-radius: 15px;
+    
+    
+    
+    
+    
+    
+}
+
+.post-img{
+    
+    width: 40vw;
+    height: 18vw;
+    padding: 10px;
+    border-radius: 15px;
+    
+    
+    
+}
+
+.post-container-text{
+    color: black;
+    width: 35vw;
+    padding: 10px;
+    
+    
+}
