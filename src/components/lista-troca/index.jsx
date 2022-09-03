@@ -18,7 +18,10 @@ export default function ListaTroca(){
                         <h4>3 garrafas por 1 litro de azeite</h4>
                     </div>
                     
-                    <button className="trade-button">Trocar</button>
+                    <div className="button-container">
+                        <button className="trade-button">Trocar</button>
+                    </div>
+                   
                 </div>
 
                 <div className = "product" >
@@ -28,6 +31,10 @@ export default function ListaTroca(){
                 
                     <h4 className="text-green">Troque</h4>
                     <h4>3 garrafas por 1 litro de azeite</h4>
+
+                    <div className="button-container">
+                        <button className="trade-button">Trocar</button>
+                    </div>
                 </div>
 
                 <div className = "product">
@@ -37,6 +44,10 @@ export default function ListaTroca(){
                 
                     <h4 className="text-green">Troque</h4>
                     <h4>3 garrafas por 1 litro de azeite</h4>
+
+                    <div className="button-container">
+                        <button className="trade-button">Trocar</button>
+                    </div>
                 </div>
 
                 <div className = "product">
@@ -46,6 +57,11 @@ export default function ListaTroca(){
                 
                     <h4 className="text-green">Troque</h4>
                     <h4>3 garrafas por 1 litro de azeite</h4>
+
+
+                    <div className="button-container">
+                        <button className="trade-button">Trocar</button>
+                    </div>
                 </div>
             </div>
 

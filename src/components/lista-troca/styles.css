@@ -33,6 +33,12 @@
     border-radius: 5px;
 }
 
+
+.button-container{
+    padding: 8px;
+    
+    
+}
 .trade-button{
     font-size: 1.15rem;
     border-radius: 5px;
@@ -41,6 +47,6 @@
     color: #FFFFFF;
     background-color: #18C600;
     width: 8rem;
-    height: auto;
+    
 }
 
